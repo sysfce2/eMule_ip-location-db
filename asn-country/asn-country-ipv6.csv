@@ -20644,7 +20644,7 @@
 2602:807:b000::,2602:807:b00f:ffff:ffff:ffff:ffff:ffff,US
 2602:807:c000::,2602:807:c00f:ffff:ffff:ffff:ffff:ffff,US
 2602:807:d000::,2602:807:d00f:ffff:ffff:ffff:ffff:ffff,US
-2602:807:e000::,2602:807:e0ff:ffff:ffff:ffff:ffff:ffff,CH
+2602:807:e000::,2602:807:e0ff:ffff:ffff:ffff:ffff:ffff,US
 2602:807:f000::,2602:807:f0ff:ffff:ffff:ffff:ffff:ffff,US
 2602:808::,2602:808:f:ffff:ffff:ffff:ffff:ffff,CA
 2602:808:1000::,2602:808:10ff:ffff:ffff:ffff:ffff:ffff,CA
@@ -20890,6 +20890,9 @@
 2602:81a:c000::,2602:81a:c00f:ffff:ffff:ffff:ffff:ffff,US
 2602:81a:d000::,2602:81a:d00f:ffff:ffff:ffff:ffff:ffff,US
 2602:81a:e000::,2602:81a:e00f:ffff:ffff:ffff:ffff:ffff,US
+2602:f739::,2602:f739:ff:ffff:ffff:ffff:ffff:ffff,CA
+2602:f73a::,2602:f73a:fff:ffff:ffff:ffff:ffff:ffff,US
+2602:f73b::,2602:f73b:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:f73c::,2602:f73c:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f73d::,2602:f73d:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f73e::,2602:f73e:ff:ffff:ffff:ffff:ffff:ffff,US
@@ -24017,7 +24020,7 @@
 2605:4000::,2605:4000:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:4040::,2605:4040:ffff:ffff:ffff:ffff:ffff:ffff,CA
 2605:4080::,2605:4080:ffff:ffff:ffff:ffff:ffff:ffff,US
-2605:40c0::,2605:40c0:ffff:ffff:ffff:ffff:ffff:ffff,US
+2605:40c0::,2605:40cf:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:4100::,2605:4100:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:4140::,2605:4140:ffff:ffff:ffff:ffff:ffff:ffff,US
 2605:4180::,2605:418f:ffff:ffff:ffff:ffff:ffff:ffff,US
@@ -26543,6 +26546,7 @@
 2607:ee80::,2607:ee80:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:eec0::,2607:eec0:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:ef00::,2607:ef00:ffff:ffff:ffff:ffff:ffff:ffff,US
+2607:ef40::,2607:ef40:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:ef80::,2607:ef80:ffff:ffff:ffff:ffff:ffff:ffff,CA
 2607:f000::,2607:f000:ffff:ffff:ffff:ffff:ffff:ffff,US
 2607:f008::,2607:f008:ffff:ffff:ffff:ffff:ffff:ffff,US
@@ -28760,7 +28764,7 @@
 2620:fd:4000::,2620:fd:4000:ffff:ffff:ffff:ffff:ffff,US
 2620:fd:8000::,2620:fd:8000:ffff:ffff:ffff:ffff:ffff,US
 2620:fd:c000::,2620:fd:c000:ffff:ffff:ffff:ffff:ffff,CA
-2620:fe::,2620:fe::ffff:ffff:ffff:ffff:ffff,CH
+2620:fe::,2620:fe::ffff:ffff:ffff:ffff:ffff,US
 2620:fe:2040::,2620:fe:2040:ffff:ffff:ffff:ffff:ffff,US
 2620:fe:8000::,2620:fe:8000:ffff:ffff:ffff:ffff:ffff,US
 2620:ff::,2620:ff::ffff:ffff:ffff:ffff:ffff,US
