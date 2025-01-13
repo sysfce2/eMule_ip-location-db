@@ -14882,6 +14882,7 @@
 2401:e880::,2401:e880:ffff:ffff:ffff:ffff:ffff:ffff,AU
 2401:e8a0::,2401:e8a0:ffff:ffff:ffff:ffff:ffff:ffff,TW
 2401:e8c0::,2401:e8c0:ffff:ffff:ffff:ffff:ffff:ffff,CN
+2401:e8e0::,2401:e8e0:ffff:ffff:ffff:ffff:ffff:ffff,PG
 2401:e900::,2401:e900:ffff:ffff:ffff:ffff:ffff:ffff,BD
 2401:e940::,2401:e940:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2401:e980::,2401:e980:ffff:ffff:ffff:ffff:ffff:ffff,AU
@@ -21349,7 +21350,7 @@
 2602:f906::,2602:f906:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:f907::,2602:f907:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:f908::,2602:f908:ff:ffff:ffff:ffff:ffff:ffff,US
-2602:f909::,2602:f909:ff:ffff:ffff:ffff:ffff:ffff,US
+2602:f909::,2602:f909:ff:ffff:ffff:ffff:ffff:ffff,VI
 2602:f90a::,2602:f90a:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f90b::,2602:f90b:fff:ffff:ffff:ffff:ffff:ffff,CA
 2602:f90c::,2602:f90c:ff:ffff:ffff:ffff:ffff:ffff,US
